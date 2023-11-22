@@ -15,8 +15,7 @@ function submitBtn() {
     let c1 = newRow1.insertCell(1);
     let c2 = newRow1.insertCell(2);
     let c3 = newRow1.insertCell(3);
-    // data[2].value =  document.querySelector('input[name="gender"]:checked');
-    // console.log(document.querySelector('input[name="gender"]:checked'));
+    data[2].value =  document.querySelector('input[name="gender"]:checked').value;
     c0.innerHTML = data[0].value;
     c1.innerHTML = data[1].value;
     c2.innerHTML = data[2].value;
