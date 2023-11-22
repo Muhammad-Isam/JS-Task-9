@@ -1,0 +1,156 @@
+.second {
+    display: flex;
+}
+
+.left {
+    width: 50%;
+    height: 100%;
+    background-color: rgb(34, 46, 46);
+}
+
+.right {
+    width: 50%;
+    height: 580px;
+    background-color: rgb(47, 78, 16);
+}
+
+td {
+    padding-left: 10px;
+}
+
+th {
+    padding-left: 5px;
+}
+
+.main {
+    border: black 2px solid;
+    width: 100vw;
+    height: 600px;
+    background-color: darkmagenta;
+}
+
+.tb,
+.tb2 {
+    background-color: burlywood;
+    border-spacing: 25px;
+}
+
+.tb {
+    margin: 150px 590px;
+}
+
+.tb2 {
+    margin: 100px 200px;
+
+}
+
+.t3 {
+    width: 80%;
+    margin: 20px 100px;
+    border-collapse: collapse;
+    border: 2px solid rgb(14, 13, 13);
+}
+
+button {
+    margin: 5px;
+}
+
+.tr {
+    padding: 5px 5px;
+}
+
+/* .btns {
+    margin-left: 10px;
+} */
+
+.hide {
+    display: none;
+}
+
+.show {
+    display: block;
+}
+
+.parent {
+    width: 500px;
+    height: 300px;
+    display: flex;
+    padding-left: 420px;
+    margin-bottom: 120px;
+}
+
+img {
+    cursor: pointer;
+}
+
+p {
+    padding-left: 20px;
+}
+
+.i15,
+.i14,
+.i12,
+.i13 {
+    margin-left: 20px;
+    margin-top: 10px;
+}
+
+.txt {
+    color: rgb(112, 162, 179);
+    font-size: 50px;
+    font-weight: 200;
+}
+
+h1 {
+    padding: 50px 350px;
+}
+
+.c {
+    padding-left: 680px;
+}
+
+.m1 {
+    padding-left: 500px;
+}
+
+
+.mino {
+    padding-left: 480px;
+
+}
+
+.sr {
+    padding-left: 580px;
+}
+
+.c1 {
+    padding-left: 70px;
+}
+
+.img1 {
+    width: 180px;
+    height: 200px;
+}
+
+.img2 {
+    width: 180px;
+    height: 200px;
+}
+
+.img3 {
+    width: 180px;
+    height: 200px;
+}
+
+.img4 {
+    width: 180px;
+    height: 200px;
+}
+
+button {
+    padding: 5px 10px;
+    background-color: #ff6347;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+}
