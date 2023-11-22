@@ -1,5 +1,11 @@
+.h2a {
+    padding-left: 650px;
+    margin-top: 110px;
+}
+
 .second {
     display: flex;
+    background-color: rgb(34, 46, 46);
 }
 
 .left {
@@ -10,8 +16,9 @@
 
 .right {
     width: 50%;
-    height: 580px;
-    background-color: rgb(47, 78, 16);
+    height: 100%;
+    background-color: rgb(23, 143, 143);
+    /* border: black 4px solid; */
 }
 
 td {
@@ -32,11 +39,11 @@ th {
 .tb,
 .tb2 {
     background-color: burlywood;
-    border-spacing: 25px;
+    border-spacing: 40px;
 }
 
 .tb {
-    margin: 150px 590px;
+    margin: 0px 500px;
 }
 
 .tb2 {
