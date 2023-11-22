@@ -1,6 +1,8 @@
 function submitBtn() {
     var form = document.getElementsByTagName("tr");
-    for (let i = 0; i < form.length; i++) {
+    // form.length;
+    // console.log(form);
+    for (let i = 0; i < 6; i++) {
         form[i].className += "hide";
     }
     var data = document.getElementsByTagName("input");
